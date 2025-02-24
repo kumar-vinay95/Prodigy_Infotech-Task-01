@@ -1,4 +1,4 @@
-# Prodigy_Infotechn-Task-02
+# Prodigy_Infotech-Task-02
 
 ![2](https://github.com/user-attachments/assets/63a97533-41d5-4248-b790-b26eda7c4d29)
 
