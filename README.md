@@ -1,6 +1,7 @@
-# Prodigy_Infotech-Task-02
+# Prodigy_Infotech-Task-01
 
-![2](https://github.com/user-attachments/assets/63a97533-41d5-4248-b790-b26eda7c4d29)
+![1](https://github.com/user-attachments/assets/2435a430-8de8-4d75-acc3-5d6d4719acfd)
+
 
 ## World Population Analysis
 This repository contains a Jupyter Notebook titled "World Population Analysis", which provides insights into population trends and data analysis using Python.
